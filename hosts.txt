@@ -27,3 +27,17 @@
 0.0.0.0 tongii.meizu.com
 0.0.0.0 aider-res.meizu.com
 ||log-api.[angolin-sdk-toutiao-b.com^$important
+||p9-be-pack-sign.pglstatp-toutiao.com^$important
+||p3-be-pack-sign.pglstatp-toutiao.com^$important
+||p6-be-pack-sign.pglstatp-toutiao.com^$important
+||p26-be-pack-sign.pglstatp-toutiao.com^$important
+||g.doubleclick.net^$important
+||clients.l.google.com
+||pangolin16.sgsnssdk.com^$important
+||inmobi.com^$important
+/^(\S+\.)?ad(s?[\d]+|m|s)?\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
+||pangle.io
+||isnssdk.com^$important
+||csi.gstatic.com^$important
+||mtalk.google.com^$important
+||flurry.com^$important
