@@ -41,4 +41,3 @@
 ||csi.gstatic.com^$important
 ||mtalk.google.com^$important
 ||flurry.com^$important
-1324
