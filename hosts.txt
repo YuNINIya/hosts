@@ -31,6 +31,29 @@
 ||pangolin-sdk-toutiao.com^
 ||pglstatp-toutiao.com^
 ||mon.zijieapi.com^
+||sf26-tos.ttwebview.com^$important
+||is.snssdk.com^$important
+||www.bytedance.com^$important
+||ib.snssdk.com^$important
+||dw.jetmobo.com^$important
+||log5-applog-lf.fqnovel.com^$important
+||accscdn.m.taobao.com^$important
+||whoami.akamai.net^$important
+||pangolin-sdk-toutiao.com^$important
+#||zijieapi.com^$important
+||frontier-toutiao.snssdk.com^$important
+||pangolin-sdk-toutiao-b.com^$important
+||ads5-normal-lf.zijieapi.com^$important
+||pglstatp-toutiao.com^$important
+||slb-p2p.vcloud.ks-live.com^$important
+||lf6-orange.byteorge.com^$important
+||lf3-orange.byteorge.com^$important
+||lf9-orange.byteorge.com^$important
+||lf26-orange.byteorge.com^$important
+||mcs.snssdk.com^$important
+||www.chengzijianzhan.com^$important
+||lf1-cdn-tos.bytescm.com^$important
+||reading.snssdk.com^$important
 ||log-api.[angolin-sdk-toutiao-b.com^$important
 ||p9-be-pack-sign.pglstatp-toutiao.com^$important
 ||p3-be-pack-sign.pglstatp-toutiao.com^$important
@@ -54,7 +77,6 @@
 ||xlog.jd.com^$important
 ||api-access.pangolin-sdk-toutiao.com^$important
 ||ulogs.umeng.com^$important
-||toblog.ctobsnssdk.com^$important
 ||log-api.pangolin-sdk-toutiao.com^$important
 ||log-api.pangolin-sdk-toutiao-b.com^$important
 ||janapi.jd.com^$important
@@ -217,7 +239,6 @@
 ||st-ads-jssdk.vivo.com.cn^$important
 ||*mmstat.com^
 ||abtest-ch.snssdk.com^
-||log.snssdk.com^
 ||*tsdk.vivo.com.cn^
 || adlog.vivo.com.cn^
 || adreq.vivo.com.cn^
@@ -241,6 +262,9 @@
 || pnrt.stsdk.vivo.com.cn^
 || prt.stsdk.vivo.com.cn^
 || vcardsdkservice.vivo.com.cn^
+||static.adtidy.org^
+||adsdk.vivo.com.cn^
+||adxlog-adnet.vivo.com.cn^
 #防误杀
 @@||ipassport.ele.me^
 @@||cfg.flurry.com^$important
@@ -1034,3 +1058,9 @@
 || adashx4yt.m.taobao.com^
 || h-adashx4yt.ut.taobao.com^
 || umdc.aliapp.org^
+#自定义
+||gecko.snssdk.com^
+||log.snssdk.com^
+||mi.gdt.qq.com^
+||adx-hw.ilianyue.com^
+@@||log-api.pangolin-sdk-toutiao-b.com^
