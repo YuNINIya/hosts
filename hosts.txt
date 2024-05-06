@@ -1064,3 +1064,25 @@
 ||mi.gdt.qq.com^
 ||adx-hw.ilianyue.com^
 @@||log-api.pangolin-sdk-toutiao-b.com^
+||sf26tos.ttwebview.com^$important
+||is.snssdk.com^$important
+||www.bytedance.com^$important
+||ib.snssdk.com^$important
+||dw.jetmobo.com^$important   ||log5apploglf.fqnovel.com^$important
+||accscdn.m.taobao.com^$important
+||whoami.akamai.net^$important
+||pangolinsdktoutiao.com^$important
+||zijieapi.com^$important
+||frontiertoutiao.snssdk.com^$important
+||pangolinsdktoutiaob.com^$important
+||ads5normallf.zijieapi.com^$important
+||pglstatptoutiao.com^$important
+||slbp2p.vcloud.kslive.com^$important
+||lf6orange.byteorge.com^$important
+||lf3orange.byteorge.com^$important
+||lf9orange.byteorge.com^$important
+||lf26orange.byteorge.com^$important
+||mcs.snssdk.com^$important
+||www.chengzijianzhan.com^$important
+||lf1cdntos.bytescm.com^$important
+||reading.snssdk.com^$important
