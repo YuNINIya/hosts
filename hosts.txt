@@ -1095,7 +1095,3 @@
 ||adsdk.vivo.com.cn^$important
 ||adscfg.togothermany.cn^$important
 ||vcode-or.vivo.com.cn^$important
-||log-api.pangolin-sdk-toutiao.com^$important
-||log-api.pangolin-sdk-toutiao-b.com^$important
-||api-access.pangolin-sdk-toutiao1.com^$important
-||p26-be-pack-sign.pglstatp-toutiao.com^$important
