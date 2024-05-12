@@ -1086,3 +1086,16 @@
 ||www.chengzijianzhan.com^$important
 ||lf1cdntos.bytescm.com^$important
 ||reading.snssdk.com^$important
+||adxlog-adnet.vivo.com.cn^$important
+||vcode-od.vivo.com.cn^$important
+||dsplog-adnet.vivo.com.cn^$important
+||st-adsgame.vivo.com.cn^$important
+||adnetstatic.vivo.com.cn^$important
+||ads-marketing-vivofs.vivo.com.cn^$important
+||adsdk.vivo.com.cn^$important
+||adscfg.togothermany.cn^$important
+||vcode-or.vivo.com.cn^$important
+||log-api.pangolin-sdk-toutiao.com^$important
+||log-api.pangolin-sdk-toutiao-b.com^$important
+||api-access.pangolin-sdk-toutiao1.com^$important
+||p26-be-pack-sign.pglstatp-toutiao.com^$important
