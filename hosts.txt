@@ -12,21 +12,6 @@
 || m.uczzd.cn
 || bro.flyme.cn
 || m.anjuke.com
-0.0.0.0 t-e.flyme.cn
-0.0.0.0 t-flow.flyme.cn
-0.0.0.0 cal.meizu.com
-0.0.0.0 aries.mzres.com
-0.0.0.0 ebook.res.meizu.com
-0.0.0.0 umid.orion.meizu.com
-0.0.0.0 uxip.meizu.com
-0.0.0.0 api-push.meizu.com
-0.0.0.0 push.res.meizu.com
-0.0.0.0 upush.res.meizu.com
-0.0.0.0 openapi-news.meizu.com
-0.0.0.0 infocenter.meizu.com
-0.0.0.0 tongii-res1.meizu.com
-0.0.0.0 tongii.meizu.com
-0.0.0.0 aider-res.meizu.com
 ###字节系 AD API SDK 屏蔽
 ||pangolin-sdk-toutiao.com^
 ||pglstatp-toutiao.com^
