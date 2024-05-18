@@ -231,7 +231,6 @@
 || cc.map.qq.com^
 || aegis.qq.com^
 ||e.qq.com^
-||gdt.qq.com^
 ||p.l.qq.com^
 #vivo广告
 ||*tsdk.vivo.com.cn^
@@ -298,23 +297,6 @@
 #|| pv.sohu.com
 #|| gw.365you.com
 #|| x.adnet.qq.com
-#|| mi.gdt.qq.com
-#|| c.gdt.qq.com
-#|| d.gdt.qq.com
-#|| i.gdt.qq.com
-#|| m.gdt.qq.com
-#|| t.gdt.qq.com
-#|| v.gdt.qq.com
-#|| q.i.gdt.qq.com
-#|| v2.gdt.qq.com
-#|| ii.gdt.qq.com
-#|| rm.gdt.qq.com
-#|| nc.gdt.qq.com
-#|| vr.gdt.qq.com
-#|| rpt.gdt.qq.com
-#|| win.gdt.qq.com
-#|| ipv4.gdt.qq.com
-#|| v6ii.gdt.qq.com
 
 #pkg=ad.xiaomi.com;视频客户端广告
 #--小米视频-MIUI
@@ -637,7 +619,6 @@
 || pgdt.gtimg.cn^
 || pgdt.ugdtimg.com^
 || union.gdtimg.com^
-|| canvas.gdt.qq.com^
 || badjs.weixinbridge.com^
 || mj.weimob.net^
 || ad.toutiao.com^
