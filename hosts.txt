@@ -263,6 +263,7 @@
 ||static.adtidy.org^
 ||adsdk.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn^
+||com.advertisingsdk.vivo.strategy^
 #防误杀
 @@||ipassport.ele.me^
 @@||cfg.flurry.com^$important
