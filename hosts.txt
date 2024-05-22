@@ -261,7 +261,7 @@
 || prt.stsdk.vivo.com.cn^
 || vcardsdkservice.vivo.com.cn^
 ||static.adtidy.org^
-||adsdk.vivo.com.cn^
+||adsdk.vivo.com^
 ||adxlog-adnet.vivo.com.cn^
 ||com.advertisingsdk.vivo.strategy^
 ||VivoAdStrategy.Runtime^
