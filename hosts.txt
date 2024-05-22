@@ -235,7 +235,6 @@
 ||*tsdk.vivo.com.cn^
 ||ads-marketing-vivofs.vivo.com.cn^$important
 ||st-ads-jssdk.vivo.com.cn^$important
-||*mmstat.com^
 ||abtest-ch.snssdk.com^
 ||*tsdk.vivo.com.cn^
 || adlog.vivo.com.cn^
@@ -265,6 +264,59 @@
 ||adxlog-adnet.vivo.com.cn^
 ||com.advertisingsdk.vivo.strategy^
 ||VivoAdStrategy.Runtime^
+||adxlog-adnet.vivo.com.cn^$important
+||dsplog-adnet.vivo.com.cn^$important
+||st-adsgame.vivo.com.cn^$important
+||adnetstatic.vivo.com.cn^$important
+||ads-marketing-vivofs.vivo.com.cn^$important
+||adsdk.vivo.com.cn^$important
+||adlog.vivo.com.cn^
+||adreq.vivo.com.cn^
+||adsstatic.vivo.com.cn^
+||asia-analyzer-appstore.vivoglobal.com^
+||asia-comonrt-stsdk.vivoglobal.com^
+||asia-comort-stsdk.vivoglobal.com^
+||asia-ex-adlog.vivoglobal.com^
+||asia-exstsdk.vivoglobal.com^
+||asia-onrt-stsdk.vivoglobal.com^
+||asia-ort-stsdk.vivoglobal.com^
+||asia-pnrt-stsdk.vivoglobal.com^
+||asia-prt-stsdk.vivoglobal.com^
+||asia-stsdk.vivoglobal.com^
+||bronrt.stsdk.vivo.com.cn^
+||brort.stsdk.vivo.com.cn^
+||brpnrt.stsdk.vivo.com.cn^
+||brprt.stsdk.vivo.com.cn^
+||monitor-stsdk.vivo.com.cn^
+||onrt-stsdk.vivo.com.cn^
+||onrt-stsdk.vivoglobal.com^
+||onrt.stsdk.vivo.com.cn^
+||onrt.stsdk.vivoglobal.com^
+||ort-stsdk.vivo.com.cn^
+||ort.stsdk.vivo.com.cn^
+||picanalysis.vivo.com.cn^
+||pnrt-stsdk.vivo.com.cn^
+||pnrt.stsdk.vivo.com.cn^
+||prt-stsdk.vivo.com.cn^
+||prt.stsdk.vivo.com.cn^
+||prt.stsdk.vivoglobal.com^
+||stnetsdk.appstore.vivo.com.cn^
+||stnetsdk.vivo.com.cn^
+||stsdk.vivo.com.cn^
+||stsdk.vivoglobal.com^
+||tr-domaincfg.vivoglobal.com^
+||tr-romsp-unifyconfig.vivoglobal.com^
+||tr-st-sl.vivoglobal.com^
+||tr-timesync.vivoglobal.com^
+||tr-vcode-api.vivoglobal.com^
+||tr-vcode-od.vivoglobal.com^
+||vcardsdkservice.vivo.com.cn^
+||vivo-barefootpolska.com^
+||vivo.papiashvili.top^
+||vivobarefootpolska.com^
+||vivobarefootpolskapl.com^
+||vivobarefootsklep.pl^
+||vivobarefotpl.com^
 #防误杀
 @@||ipassport.ele.me^
 @@||cfg.flurry.com^$important
@@ -609,7 +661,6 @@
 || adv.fjtv.net^
 || dsa-mfp.fengshows.cn^
 || sdk.cferw.com^
-
 #pkg=ad.adwars.com;大圣净化规则
 || ad.weixin.qq.com^
 || wxa.wxs.qq.com^
@@ -711,8 +762,6 @@
 || dataf.ads.oppomobile.com^
 || g1.ads.oppomobile.com^
 || uapi.ads.oppomobile.com^
-
-
 #pkg=googleanalysis.mobi;谷歌广告服务
 || ads.google.com^
 || www.googleadservices.com^
@@ -1063,12 +1112,6 @@
 ||mcs.snssdk.com^$importan
 ||lf1cdntos.bytescm.com^$important
 ||reading.snssdk.com^$important
-||adxlog-adnet.vivo.com.cn^$important
-||dsplog-adnet.vivo.com.cn^$important
-||st-adsgame.vivo.com.cn^$important
-||adnetstatic.vivo.com.cn^$important
-||ads-marketing-vivofs.vivo.com.cn^$important
-||adsdk.vivo.com.cn^$important
 ||adscfg.togothermany.cn^$important
 ||ad-survey.com^
 ||ad.adondemand.com^
@@ -1128,3 +1171,8 @@
 ||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
 ||adx.ads.oppomobile.com^
+#12306广告
+||ad.12306.cn^
+#优酷土豆
+||ad.api.3g.tudou.com^
+||ad.api.3g.youku.com^
