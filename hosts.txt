@@ -40,7 +40,6 @@
 ||accscdn.m.taobao.com^$important
 ||whoami.akamai.net^$important
 ||pangolin-sdk-toutiao.com^$important
-#||zijieapi.com^$important
 ||frontier-toutiao.snssdk.com^$important
 ||pangolin-sdk-toutiao-b.com^$important
 ||ads5-normal-lf.zijieapi.com^$important
@@ -931,7 +930,6 @@
 || s1.2mdn.net^
 || media.admob.com^
 || ssl.google-analytics.com^
-
 #pkg=baidu.com;百度广告服务
 || adm.baidu.com^
 || ad.player.baidu.com^
@@ -1001,9 +999,6 @@
 || api.tuisong.baidu.com^
 || sa8.tuisong.baidu.com^
 || cpro.baidustatic.com^
-
-
-
 #pkg=alibaba.com;阿里广告服务
 || adash.man.aliyuncs.com^
 || cdn-ads.oss-cn-shanghai.aliyuncs.com^
@@ -1073,3 +1068,61 @@
 ||ads-marketing-vivofs.vivo.com.cn^$important
 ||adsdk.vivo.com.cn^$important
 ||adscfg.togothermany.cn^$important
+||ad-survey.com^
+||ad.adondemand.com^
+||ad.holmesmind.com^
+||ad.mazc.org^
+||ad.sitemaji.com^
+||ad.wamxb.info^
+||ad2023.site^
+||ada.baidu.com^
+||adayvquq.cn^
+||adbeuch.cn^
+||adbtwyxl96.fun^
+||adc3-launch.adcolony.com^
+||adcd7.com^
+||adcdn.holmesmind.com^
+||adcr77.com^
+||addictedwonder.com^
+||adfox.yandex.ru^
+||adfstat.yandex.ru^
+||adhdsb.cn^
+||adimg.liba.com^
+||aditibelen.com^
+||adkisdh3897.xyz^
+||adm.hotjar.com^
+||admhbl.xyz^
+||adpushup.com^
+||adrecover.com^
+||adroition.net^
+||ads-api.tiktok.com^
+||ads-api.twitter.com^
+||ads-pixiv.net^
+||ads-sg.tiktok.com^
+||ads.aralego.com^
+||ads.exoclick.com^
+||ads.linkedin.com^
+||ads.pinterest.com^
+||ads.pubmatic.com^
+||ads.service.kugou.com^
+||ads.superad.cc^
+||ads.tiktok.com^
+||ads.yahoo.com^
+||ads.yap.yahoo.com^
+||ads.youtube.com^
+||ads30.adcolony.com^
+||adserver.unityads.unity3d.com^
+||adservice.google.com^
+||adsfs.oppomobile.com^
+||adskeeper.co.uk^
+||adtago.s3.amazonaws.com^
+||adtech.yahooinc.com^
+||adtng.com^
+||adv-sv-show.focus.cn^
+||adv-sv-stat.focus.cn^
+||advertising-api-eu.amazon.com^
+||advertising.apple.com^
+||advertising.yahoo.com^
+||advertising.yandex.ru^
+||advice-ads.s3.amazonaws.com^
+||adx.ads.oppomobile.com^
