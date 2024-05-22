@@ -264,6 +264,7 @@
 ||adsdk.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||com.advertisingsdk.vivo.strategy^
+||VivoAdStrategy.Runtime^
 #防误杀
 @@||ipassport.ele.me^
 @@||cfg.flurry.com^$important
