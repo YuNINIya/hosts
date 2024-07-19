@@ -1187,7 +1187,6 @@
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||audid.umeng.com^
-||beacon.qq.com^
 ||bugly.qq.com^
 ||c.gj.qq.com^
 ||commdata.v.qq.com^
