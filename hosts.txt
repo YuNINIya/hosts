@@ -1428,7 +1428,6 @@
 ||grs.hicloud.com^
 ||grs.platform.dbankcloud.ru^
 ||h-adashx.ut.taobao.com^
-||hanlanad.com^
 ||henzanapp.com^
 ||hexagon-analytics.com^
 ||hiboard-drcn.ai.dbankcloud.cn^
