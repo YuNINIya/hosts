@@ -1052,7 +1052,6 @@
 ||sf26tos.ttwebview.com^
 ||log5apploglf.fqnovel.com^
 ||pangolinsdktoutiao.com^
-||zijieapi.com^
 ||frontiertoutiao.snssdk.com^
 ||pangolinsdktoutiaob.com^
 ||ads5normallf.zijieapi.com^
