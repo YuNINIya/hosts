@@ -1184,7 +1184,6 @@
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
 ||wxa.wxs.qq.com^
-||wximg.wxs.qq.com^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
 ||wxsnsdy.wxs.qq.com^
