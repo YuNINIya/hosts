@@ -388,8 +388,6 @@
 || paopao1.qiyipic.com^
 || paopao2.qiyipic.com^
 || paopao3.qiyipic.com^
-|| count.game.pps.tv^
-|| game.pps.tv^
 || static.g.ppstream.com^
 || qosp.msg.71.am^
 || msga.71.am^
@@ -1473,8 +1471,6 @@
 ||kl.67it.com^
 ||knicks.jd.com^
 ||ks.pull.yximgs.com^
-||launcher.smart-tv.cn^
-||launcherimg.smart-tv.cn^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||litchiads.com^
@@ -1527,7 +1523,6 @@
 ||miav-cse.avlyun.com^
 ||mime.baidu.com^
 ||mine.baidu.com^
-||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
 ||mnqlog.ldmnq.com^
 ||mobads-pre-config.cdn.bcebos.com^
@@ -1541,7 +1536,6 @@
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
 ||mtj.baidu.com^
-||newvoice.chiq5.smart-tv.cn^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
 ||nsclick.baidu.com^
@@ -1601,7 +1595,6 @@
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||sanme2.taisantech.com^
-||saveu5-normal-lq.zijieapi.com^
 ||scdown.qq.com^
 ||scs.openspeech.cn^
 ||sdk-ab-config.qquanquan.com^
@@ -1635,7 +1628,6 @@
 ||sigmob.com^
 ||skdisplay.jd.com^
 ||smad.ms.zhangyue.net^
-||smart-tv.cn^
 ||smartad.10010.com^
 ||smetrics.samsung.com^
 ||sms.ads.oppomobile.com^
@@ -1774,7 +1766,4 @@
 /[a-zA-Z0-9.-]*-ad\.sm\.cn/
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
 /[a-zA-Z0-9.-]*-ad\.wtzw\.com/
-/[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
-/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
