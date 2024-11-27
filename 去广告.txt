@@ -148,6 +148,7 @@
 || h-adashx4yt.ut.taobao.com^
 || audid.umeng.com^
 ##阿里系广告
+|| files.adprod.cn^
 || adash.man.aliyuncs.com^
 || cdn-ads.oss-cn-shanghai.aliyuncs.com^
 || ynuf.aliapp.org^
