@@ -86,3 +86,100 @@
 ||v97-daily-colda.douyinvod.com^
 ||v11-whb.douyinvod.com^
 ||v5-whb.douyinvod.com^
+#拼多多广告
+||social.pinduoduo.com^
+||4pn.cn^
+||4a9.cn^
+||3p4.cn^
+||y4n.cn^
+||u7x.cn^
+||metrics.icloud.com^
+||aqdlt.com^
+||aqdz91.com^
+||aqdz149.com^
+||appmetrica.yandex.ru^
+||share.jileme.net^
+||dspsdk.pinduoduo.com^
+##酷安
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||dm.toutiao.com^
+||tnc*.zijieapi.com^
+||mssdk-bu.bytedance.com^
+##酷安帖子详情好物推荐
+||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
+##酷安帖子详情赞助内容
+||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
+##酷安发现页去除酷品
+||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
+##酷安应用游戏页去除推广视频
+||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
+##酷安去除首页还有什么值得买推广
+||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+##友盟淘宝广告
+||ulogs.umengcloud.com^
+||utoken.umeng.com^
+||aspect-upush.umeng.com^
+||aaid.umeng.com^
+||umengcloud.com^
+||umengacs.m.taobao.com^
+||umeng.com^
+|| adashbc.m.taobao.com^
+|| adashbc.ut.taobao.com^
+|| adashxgc.ut.taobao.com^
+|| adashx.m.taobao.com^
+|| c-adash.m.taobao.com^
+|| m-adash.m.taobao.com^
+|| adash.m.taobao.com^
+|| h-adashx.ut.taobao.com^
+|| tunion-api.m.taobao.com^
+|| acs4baichuan.m.taobao.com^
+|| amdc.m.taobao.com^
+|| amdcopen.m.taobao.com^
+|| eco.taobao.com^
+|| umengacs.m.taobao.com^
+|| umengjmacs.m.taobao.com^
+|| openjmacs.m.taobao.com^
+|| dsp.simba.taobao.com^
+|| sjarvis.taobao.com^
+|| audid-api.taobao.com^
+|| adashx4yt.m.taobao.com^
+|| h-adashx4yt.ut.taobao.com^
+|| audid.umeng.com^
+##阿里系广告
+|| adash.man.aliyuncs.com^
+|| cdn-ads.oss-cn-shanghai.aliyuncs.com^
+|| ynuf.aliapp.org^
+|| unidesk.alicdn.com^
+|| nbsdk-baichuan.alicdn.com^
+|| baichuan-sdk.alicdn.com^
+|| ilce.alicdn.com^
+|| abtest.alibaba.com^
+|| proxy-mob-cld.alicdn.com^
+|| ali-ad.a.yximgs.com^
+|| umdc.aliapp.org^
+|| adsfilebssdlbig.ali.kugou.com^
+|| ali-ad.a.yximgs.com^
+|| beacon-api.aliyuncs.com^
+|| cdn-ads.oss-cn-shanghai.aliyuncs.com^
+##腾讯系广告
+|| ad.qun.qq.com^
+|| adping.qq.com^
+|| adpm.app.qq.com^
+|| adrdir.qq.com^
+|| adsfile.qq.com^
+|| adsgroup.qq.com^
+|| adshmct.qq.com^
+|| adshmmsg.qq.com^
+|| adslvfile.qq.com^
+|| adslvseed.qq.com^
+|| adstextview.qq.com^
+|| adsview.qq.com^
+|| adsview2.qq.com^
+|| adv.app.qq.com^
+|| adver.qq.com^
+|| adfilter.imtt.qq.com^
+|| ad.qq.com^
+|| adsense.html5.qq.com^
+|| adsolution.imtt.qq.com^
+|| adsrich.qq.com^
