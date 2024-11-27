@@ -30,6 +30,7 @@
 0.0.0.0 aider-res.meizu.com
 ##字节系广告
 ||pangolin-sdk-toutiao.com^
+||log.zijieapi.com^
 ||pglstatp-toutiao.com^
 ||mon.zijieapi.com^
 ||sf26-tos.ttwebview.com^
@@ -463,6 +464,43 @@
 || ota.cdn.pandora.xiaomi.com^
 || api.ad.xiaomi.com^
 || data.mistat.xiaomi.com^
+#快手广告
+|| open.e.kuaishou.com^
+|| api.e.kuaishou.com^
+|| open.e.kuaishou.cn^
+|| p1-lm.adukwai.com^
+|| p2-lm.adukwai.com^
+|| p1-lm.adkwai.com^
+|| p2-lm.adkwai.com^
+|| p3-lm.adkwai.com^
+|| w1.askwai.com^
+|| w1.bskwai.com^
+|| w1.cskwai.com^
+|| w1.dskwai.com^
+|| w1.eskwai.com^
+|| w1.fskwai.com^
+|| w1.gskwai.com^
+|| w1.hskwai.com^
+|| w1.iskwai.com^
+|| w1.jskwai.com^
+|| w1.kskwai.com^
+|| w1.lskwai.com^
+|| w1.mskwai.com^
+|| w1.nskwai.com^
+|| w1.oskwai.com^
+|| w1.pskwai.com^
+|| w1.qskwai.com^
+|| w1.rskwai.com^
+|| w1.sskwai.com^
+|| w1.tskwai.com^
+|| w1.uskwai.com^
+|| w1.vskwai.com^
+|| w1.wskwai.com^
+|| w1.xskwai.com^
+|| w1.yskwai.com^
+|| w1.zskwai.com^
+|| adkwai.com^
+|| adukwai.com^
 #不知名小广告
 || api.adprod.cn^
 #哔哩哔哩模块
