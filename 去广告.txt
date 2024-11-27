@@ -1,0 +1,88 @@
+##反馈QQ：2685598637
+#自用AdGuardhome 去广告规则
+#魅族广告
+|| es-res.flyme.cn
+|| ssp-res.flyme.cn
+|| adapi.dingyueads.com
+|| api-flow.flyme.cn
+|| open-iflow.meizu.com
+|| safe.res.meizu.com
+|| qny.smzdm.com
+|| mz-api.smzdm.com
+|| analytics-api.smzdm.com
+|| m.uczzd.cn
+|| bro.flyme.cn
+|| m.anjuke.com
+0.0.0.0 t-e.flyme.cn
+0.0.0.0 t-flow.flyme.cn
+0.0.0.0 cal.meizu.com
+0.0.0.0 aries.mzres.com
+0.0.0.0 ebook.res.meizu.com
+0.0.0.0 umid.orion.meizu.com
+0.0.0.0 uxip.meizu.com
+0.0.0.0 api-push.meizu.com
+0.0.0.0 push.res.meizu.com
+0.0.0.0 upush.res.meizu.com
+0.0.0.0 openapi-news.meizu.com
+0.0.0.0 infocenter.meizu.com
+0.0.0.0 tongii-res1.meizu.com
+0.0.0.0 tongii.meizu.com
+0.0.0.0 aider-res.meizu.com
+##字节系广告
+||pangolin-sdk-toutiao.com^
+||pglstatp-toutiao.com^
+||mon.zijieapi.com^
+||sf26-tos.ttwebview.com^
+||is.snssdk.com^
+||www.bytedance.com^
+||ib.snssdk.com^
+||dw.jetmobo.com^
+||log5-applog-lf.fqnovel.com^
+||accscdn.m.taobao.com^
+||whoami.akamai.net^
+||frontier-toutiao.snssdk.com^
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^
+||slb-p2p.vcloud.ks-live.com^
+||lf6-orange.byteorge.com^
+||lf3-orange.byteorge.com^
+||lf9-orange.byteorge.com^
+||lf26-orange.byteorge.com^
+||mcs.snssdk.com^
+||www.chengzijianzhan.com^
+||lf1-cdn-tos.bytescm.com^
+||reading.snssdk.com^
+||log-api.angolin-sdk-toutiao-b.com^
+||p9-be-pack-sign.pglstatp-toutiao.com^
+||p3-be-pack-sign.pglstatp-toutiao.com^
+||p6-be-pack-sign.pglstatp-toutiao.com^
+||p26-be-pack-sign.pglstatp-toutiao.com^
+||sf3-be-pack.pglstatp-toutiao.com^
+||imp-toutiao-data.37.com.cn^
+||api-access.pangolin-sdk-toutiao1.com^
+||api-access.pangolin-sdk-toutiao.com^
+||log-api.pangolin-sdk-toutiao.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||gromore.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao-b.com^
+||tnc3-aliec1.toutiaoapi.com^
+||tnc3-aliec2.bytedance.com^
+||tnc3-aliec2.toutiaoapi.com^
+||tnc3-alisc1.bytedance.com^
+||tnc3-alisc1.zijieapi.com^
+||tnc3-alisc2.zijieapi.com^
+||tnc3-bjlgy.bytedance.com^
+||tnc3-bjlgy.toutiaoapi.com^
+||tnc3-bjlgy.zijieapi.com^
+||v11.douyinvod.com^
+||v26-hl-cold.douyinvod.com^
+||v95-zjb-cold.douyinvod.com^
+||v9-re1.douyinvod.com^
+||v5-gzb-c.douyinvod.com^
+||v5-h.douyinvod.com^
+||v95-bjb.douyinvod.com^
+||v26.douyinvod.com^
+||v3-cold.douyinvod.com^
+||v97-daily-colda.douyinvod.com^
+||v11-whb.douyinvod.com^
+||v5-whb.douyinvod.com^
