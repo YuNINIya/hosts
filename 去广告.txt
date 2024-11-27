@@ -187,8 +187,10 @@
 || e.qq.com^
 || adsmind.gdtimg.com^
 ##vivo广告
-||*tsdk.vivo.com.cn^
-||st-ads-jssdk.vivo.com.cn^
+|| adsdk.vivo.com.cn^
+|| adxlog-adnet.vivo.com.cn^
+|| *tsdk.vivo.com.cn^
+|| st-ads-jssdk.vivo.com.cn^
 || adlog.vivo.com.cn^
 || adreq.vivo.com.cn^
 || adsdk.vivo.com.cn^
@@ -262,6 +264,7 @@
 || vivobarefootsklep.pl^
 || vivobarefotpl.com^
 ##百度系广告
+|| feed-image.baidu.com^
 || mobads.baidu.com^
 || adm.baidu.com^
 || ad.player.baidu.com^
@@ -503,5 +506,6 @@
 || adukwai.com^
 #不知名小广告
 || api.adprod.cn^
+|| adx-track.domob.cn^
 #哔哩哔哩模块
 || black.qimo.ink^
