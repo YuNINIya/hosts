@@ -184,3 +184,4 @@
 || adsolution.imtt.qq.com^
 || adsrich.qq.com^
 || e.qq.com^
+|| adsmind.gdtimg.com^
