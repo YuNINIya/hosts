@@ -1,18 +1,18 @@
 ##反馈QQ：2685598637
 #自用AdGuardhome 去广告规则
 #魅族广告
-|| es-res.flyme.cn
-|| ssp-res.flyme.cn
-|| adapi.dingyueads.com
-|| api-flow.flyme.cn
-|| open-iflow.meizu.com
-|| safe.res.meizu.com
-|| qny.smzdm.com
-|| mz-api.smzdm.com
-|| analytics-api.smzdm.com
-|| m.uczzd.cn
-|| bro.flyme.cn
-|| m.anjuke.com
+||es-res.flyme.cn
+||ssp-res.flyme.cn
+||adapi.dingyueads.com
+||api-flow.flyme.cn
+||open-iflow.meizu.com
+||safe.res.meizu.com
+||qny.smzdm.com
+||mz-api.smzdm.com
+||analytics-api.smzdm.com
+||m.uczzd.cn
+||bro.flyme.cn
+||m.anjuke.com
 0.0.0.0 t-e.flyme.cn
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 cal.meizu.com
@@ -125,389 +125,391 @@
 ||umengcloud.com^
 ||umengacs.m.taobao.com^
 ||umeng.com^
-|| adashbc.m.taobao.com^
-|| adashbc.ut.taobao.com^
-|| adashxgc.ut.taobao.com^
-|| adashx.m.taobao.com^
-|| c-adash.m.taobao.com^
-|| m-adash.m.taobao.com^
-|| adash.m.taobao.com^
-|| h-adashx.ut.taobao.com^
-|| tunion-api.m.taobao.com^
-|| acs4baichuan.m.taobao.com^
-|| amdc.m.taobao.com^
-|| amdcopen.m.taobao.com^
-|| eco.taobao.com^
-|| umengacs.m.taobao.com^
-|| umengjmacs.m.taobao.com^
-|| openjmacs.m.taobao.com^
-|| dsp.simba.taobao.com^
-|| sjarvis.taobao.com^
-|| audid-api.taobao.com^
-|| adashx4yt.m.taobao.com^
-|| h-adashx4yt.ut.taobao.com^
-|| audid.umeng.com^
+||adashbc.m.taobao.com^
+||adashbc.ut.taobao.com^
+||adashxgc.ut.taobao.com^
+||adashx.m.taobao.com^
+||c-adash.m.taobao.com^
+||m-adash.m.taobao.com^
+||adash.m.taobao.com^
+||h-adashx.ut.taobao.com^
+||tunion-api.m.taobao.com^
+||acs4baichuan.m.taobao.com^
+||amdc.m.taobao.com^
+||amdcopen.m.taobao.com^
+||eco.taobao.com^
+||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
+||openjmacs.m.taobao.com^
+||dsp.simba.taobao.com^
+||sjarvis.taobao.com^
+||audid-api.taobao.com^
+||adashx4yt.m.taobao.com^
+||h-adashx4yt.ut.taobao.com^
+||audid.umeng.com^
 ##阿里系广告
-|| files.adprod.cn^
-|| adash.man.aliyuncs.com^
-|| cdn-ads.oss-cn-shanghai.aliyuncs.com^
-|| ynuf.aliapp.org^
-|| unidesk.alicdn.com^
-|| nbsdk-baichuan.alicdn.com^
-|| baichuan-sdk.alicdn.com^
-|| ilce.alicdn.com^
-|| abtest.alibaba.com^
-|| proxy-mob-cld.alicdn.com^
-|| ali-ad.a.yximgs.com^
-|| umdc.aliapp.org^
-|| adsfilebssdlbig.ali.kugou.com^
-|| ali-ad.a.yximgs.com^
-|| beacon-api.aliyuncs.com^
-|| cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||files.adprod.cn^
+||adash.man.aliyuncs.com^
+||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||ynuf.aliapp.org^
+||unidesk.alicdn.com^
+||nbsdk-baichuan.alicdn.com^
+||baichuan-sdk.alicdn.com^
+||ilce.alicdn.com^
+||abtest.alibaba.com^
+||proxy-mob-cld.alicdn.com^
+||ali-ad.a.yximgs.com^
+||umdc.aliapp.org^
+||adsfilebssdlbig.ali.kugou.com^
+||ali-ad.a.yximgs.com^
+||beacon-api.aliyuncs.com^
+||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ##腾讯系广告
-|| ad.qun.qq.com^
-|| adping.qq.com^
-|| adpm.app.qq.com^
-|| adrdir.qq.com^
-|| adsfile.qq.com^
-|| adsgroup.qq.com^
-|| adshmct.qq.com^
-|| adshmmsg.qq.com^
-|| adslvfile.qq.com^
-|| adslvseed.qq.com^
-|| adstextview.qq.com^
-|| adsview.qq.com^
-|| adsview2.qq.com^
-|| adv.app.qq.com^
-|| adver.qq.com^
-|| adfilter.imtt.qq.com^
-|| ad.qq.com^
-|| adsense.html5.qq.com^
-|| adsolution.imtt.qq.com^
-|| adsrich.qq.com^
-|| e.qq.com^
-|| adsmind.gdtimg.com^
+||ad.qun.qq.com^
+||adping.qq.com^
+||adpm.app.qq.com^
+||adrdir.qq.com^
+||adsfile.qq.com^
+||adsgroup.qq.com^
+||adshmct.qq.com^
+||adshmmsg.qq.com^
+||adslvfile.qq.com^
+||adslvseed.qq.com^
+||adstextview.qq.com^
+||adsview.qq.com^
+||adsview2.qq.com^
+||adv.app.qq.com^
+||adver.qq.com^
+||adfilter.imtt.qq.com^
+||ad.qq.com^
+||adsense.html5.qq.com^
+||adsolution.imtt.qq.com^
+||adsrich.qq.com^
+||e.qq.com^
+||adsmind.gdtimg.com^
 ##vivo广告
-|| adsdk.vivo.com.cn^
-|| adxlog-adnet.vivo.com.cn^
-|| *tsdk.vivo.com.cn^
-|| st-ads-jssdk.vivo.com.cn^
-|| adlog.vivo.com.cn^
-|| adreq.vivo.com.cn^
-|| adsdk.vivo.com.cn^
-|| adsstatic.vivo.com.cn^
-|| adxlog.vivo.com.cn^
-|| stnetsdk.appstore.vivo.com.cn^
-|| monitor-stsdk.vivo.com.cn^
-|| onrt-stsdk.vivo.com.cn^
-|| ort-stsdk.vivo.com.cn^
-|| pnrt-stsdk.vivo.com.cn^
-|| prt-stsdk.vivo.com.cn^
-|| stnetsdk.vivo.com.cn^
-|| stsdk.vivo.com.cn^
-|| bronrt.stsdk.vivo.com.cn^
-|| brort.stsdk.vivo.com.cn^
-|| brpnrt.stsdk.vivo.com.cn^
-|| brprt.stsdk.vivo.com.cn^
-|| onrt.stsdk.vivo.com.cn^
-|| ort.stsdk.vivo.com.cn^
-|| pnrt.stsdk.vivo.com.cn^
-|| prt.stsdk.vivo.com.cn^
-|| vcardsdkservice.vivo.com.cn^||adsdk.vivo.com^
-|| adxlog-adnet.vivo.com.cn^
-|| com.advertisingsdk.vivo.strategy^
-|| VivoAdStrategy.Runtime^
-|| adlog.vivo.com.cn^
-|| adreq.vivo.com.cn^
-|| adsstatic.vivo.com.cn^
-|| asia-analyzer-appstore.vivoglobal.com^
-|| asia-comonrt-stsdk.vivoglobal.com^
-|| asia-comort-stsdk.vivoglobal.com^
-|| asia-ex-adlog.vivoglobal.com^
-|| asia-exstsdk.vivoglobal.com^
-|| asia-onrt-stsdk.vivoglobal.com^
-|| asia-ort-stsdk.vivoglobal.com^
-|| asia-pnrt-stsdk.vivoglobal.com^
-|| asia-prt-stsdk.vivoglobal.com^
-|| asia-stsdk.vivoglobal.com^
-|| bronrt.stsdk.vivo.com.cn^
-|| brort.stsdk.vivo.com.cn^
-|| brpnrt.stsdk.vivo.com.cn^
-|| brprt.stsdk.vivo.com.cn^
-|| monitor-stsdk.vivo.com.cn^
-|| onrt-stsdk.vivo.com.cn^
-|| onrt-stsdk.vivoglobal.com^
-|| onrt.stsdk.vivo.com.cn^
-|| onrt.stsdk.vivoglobal.com^
-|| ort-stsdk.vivo.com.cn^
-|| ort.stsdk.vivo.com.cn^
-|| picanalysis.vivo.com.cn^
-|| pnrt-stsdk.vivo.com.cn^
-|| pnrt.stsdk.vivo.com.cn^
-|| prt-stsdk.vivo.com.cn^
-|| prt.stsdk.vivo.com.cn^
-|| prt.stsdk.vivoglobal.com^
-|| stnetsdk.appstore.vivo.com.cn^
-|| stnetsdk.vivo.com.cn^
-|| stsdk.vivo.com.cn^
-|| stsdk.vivoglobal.com^
-|| tr-domaincfg.vivoglobal.com^
-|| tr-romsp-unifyconfig.vivoglobal.com^
-|| tr-st-sl.vivoglobal.com^
-|| tr-timesync.vivoglobal.com^
-|| tr-vcode-api.vivoglobal.com^
-|| tr-vcode-od.vivoglobal.com^
-|| vcardsdkservice.vivo.com.cn^
-|| vivo-barefootpolska.com^
-|| vivo.papiashvili.top^
-|| vivobarefootpolska.com^
-|| vivobarefootpolskapl.com^
-|| vivobarefootsklep.pl^
-|| vivobarefotpl.com^
+||adsdk.vivo.com.cn^
+||adxlog-adnet.vivo.com.cn^
+||*tsdk.vivo.com.cn^
+||st-ads-jssdk.vivo.com.cn^
+||adlog.vivo.com.cn^
+||adreq.vivo.com.cn^
+||adsdk.vivo.com.cn^
+||adsstatic.vivo.com.cn^
+||adxlog.vivo.com.cn^
+||stnetsdk.appstore.vivo.com.cn^
+||monitor-stsdk.vivo.com.cn^
+||onrt-stsdk.vivo.com.cn^
+||ort-stsdk.vivo.com.cn^
+||pnrt-stsdk.vivo.com.cn^
+||prt-stsdk.vivo.com.cn^
+||stnetsdk.vivo.com.cn^
+||stsdk.vivo.com.cn^
+||bronrt.stsdk.vivo.com.cn^
+||brort.stsdk.vivo.com.cn^
+||brpnrt.stsdk.vivo.com.cn^
+||brprt.stsdk.vivo.com.cn^
+||onrt.stsdk.vivo.com.cn^
+||ort.stsdk.vivo.com.cn^
+||pnrt.stsdk.vivo.com.cn^
+||prt.stsdk.vivo.com.cn^
+||vcardsdkservice.vivo.com.cn^||adsdk.vivo.com^
+||adxlog-adnet.vivo.com.cn^
+||com.advertisingsdk.vivo.strategy^
+||VivoAdStrategy.Runtime^
+||adlog.vivo.com.cn^
+||adreq.vivo.com.cn^
+||adsstatic.vivo.com.cn^
+||asia-analyzer-appstore.vivoglobal.com^
+||asia-comonrt-stsdk.vivoglobal.com^
+||asia-comort-stsdk.vivoglobal.com^
+||asia-ex-adlog.vivoglobal.com^
+||asia-exstsdk.vivoglobal.com^
+||asia-onrt-stsdk.vivoglobal.com^
+||asia-ort-stsdk.vivoglobal.com^
+||asia-pnrt-stsdk.vivoglobal.com^
+||asia-prt-stsdk.vivoglobal.com^
+||asia-stsdk.vivoglobal.com^
+||bronrt.stsdk.vivo.com.cn^
+||brort.stsdk.vivo.com.cn^
+||brpnrt.stsdk.vivo.com.cn^
+||brprt.stsdk.vivo.com.cn^
+||monitor-stsdk.vivo.com.cn^
+||onrt-stsdk.vivo.com.cn^
+||onrt-stsdk.vivoglobal.com^
+||onrt.stsdk.vivo.com.cn^
+||onrt.stsdk.vivoglobal.com^
+||ort-stsdk.vivo.com.cn^
+||ort.stsdk.vivo.com.cn^
+||picanalysis.vivo.com.cn^
+||pnrt-stsdk.vivo.com.cn^
+||pnrt.stsdk.vivo.com.cn^
+||prt-stsdk.vivo.com.cn^
+||prt.stsdk.vivo.com.cn^
+||prt.stsdk.vivoglobal.com^
+||stnetsdk.appstore.vivo.com.cn^
+||stnetsdk.vivo.com.cn^
+||stsdk.vivo.com.cn^
+||stsdk.vivoglobal.com^
+||tr-domaincfg.vivoglobal.com^
+||tr-romsp-unifyconfig.vivoglobal.com^
+||tr-st-sl.vivoglobal.com^
+||tr-timesync.vivoglobal.com^
+||tr-vcode-api.vivoglobal.com^
+||tr-vcode-od.vivoglobal.com^
+||vcardsdkservice.vivo.com.cn^
+||vivo-barefootpolska.com^
+||vivo.papiashvili.top^
+||vivobarefootpolska.com^
+||vivobarefootpolskapl.com^
+||vivobarefootsklep.pl^
+||vivobarefotpl.com^
 ##百度系广告
-|| feed-image.baidu.com^
-|| mobads.baidu.com^
-|| adm.baidu.com^
-|| ad.player.baidu.com^
-|| adscdn.baidu.com^
-|| afd.baidu.com^
-|| als.baidu.com^
-|| cbjs.baidu.com^
-|| cm.baidu.com^
-|| cm.pos.baidu.com^
-|| cpro.baidu.com^
-|| crs.baidu.com^
-|| eclick.baidu.com^
-|| eiv.baidu.com^
-|| entry.baidu.com^
-|| idm-su.baidu.com^
-|| idm.bce.baidu.com^
-|| mobads-logs.baidu.com^
-|| msite.baidu.com^
-|| nsclick.baidu.com^
-|| nsclickvideo.baidu.com^
-|| pc.videoclick.baidu.com^
-|| pos.baidu.com^
-|| push.zhanzhang.baidu.com^
-|| river.zhidao.baidu.com^
-|| s.cpro.baidu.com^
-|| wangmeng.baidu.com^
-|| wn.pos.baidu.com^
-|| bdplus.baidu.com^
-|| datax.baidu.com^
-|| openrcv.baidu.com^
-|| a.baidu.com^
-|| cb.baidu.com^
-|| hdj.baidu.com^
-|| mssp.baidu.com^
-|| nlog.baidu.com^
-|| sestat.baidu.com^
-|| stat.v.baidu.com^
-|| videopush.baidu.com^
-|| wisepush.video.baidu.com^
-|| hmma.baidu.com^
-|| dup.baidustatic.com^
-|| sp0.baidu.com^
-|| qapm.baidu.com^
-|| fclog.baidu.com^
-|| sofire.baidu.com^
-|| tcbox.baidu.com^
-|| browserkernel.baidu.com^
-|| hijack.baidu.com^
-|| hpd.baidu.com^
-|| hm.baidu.com^
-|| ecma.bdimg.com^
-|| ecmb.bdimg.com^
-|| cdn-haokanapk.baidu.com^
-|| adavideo.baidu.com^
-|| ada.baidu.com^
-|| tuijian.baidu.com^
-|| ucstat.baidu.com^
-|| crab.baidu.com^
-|| api1.tuisong.baidu.com^
-|| baidu-mipdx.cn.miaozhen.com^
-|| api3.tuisong.baidu.com^
-|| api8.tuisong.baidu.com^
-|| sa.tuisong.baidu.com^
-|| api.tuisong.baidu.com^
-|| sa8.tuisong.baidu.com^
-|| cpro.baidustatic.com^
+||feed-image.baidu.com^
+||mobads.baidu.com^
+||adm.baidu.com^
+||ad.player.baidu.com^
+||adscdn.baidu.com^
+||afd.baidu.com^
+||als.baidu.com^
+||cbjs.baidu.com^
+||cm.baidu.com^
+||cm.pos.baidu.com^
+||cpro.baidu.com^
+||crs.baidu.com^
+||eclick.baidu.com^
+||eiv.baidu.com^
+||entry.baidu.com^
+||idm-su.baidu.com^
+||idm.bce.baidu.com^
+||mobads-logs.baidu.com^
+||msite.baidu.com^
+||nsclick.baidu.com^
+||nsclickvideo.baidu.com^
+||pc.videoclick.baidu.com^
+||pos.baidu.com^
+||push.zhanzhang.baidu.com^
+||river.zhidao.baidu.com^
+||s.cpro.baidu.com^
+||wangmeng.baidu.com^
+||wn.pos.baidu.com^
+||bdplus.baidu.com^
+||datax.baidu.com^
+||openrcv.baidu.com^
+||a.baidu.com^
+||cb.baidu.com^
+||hdj.baidu.com^
+||mssp.baidu.com^
+||nlog.baidu.com^
+||sestat.baidu.com^
+||stat.v.baidu.com^
+||videopush.baidu.com^
+||wisepush.video.baidu.com^
+||hmma.baidu.com^
+||dup.baidustatic.com^
+||sp0.baidu.com^
+||qapm.baidu.com^
+||fclog.baidu.com^
+||sofire.baidu.com^
+||tcbox.baidu.com^
+||browserkernel.baidu.com^
+||hijack.baidu.com^
+||hpd.baidu.com^
+||hm.baidu.com^
+||ecma.bdimg.com^
+||ecmb.bdimg.com^
+||cdn-haokanapk.baidu.com^
+||adavideo.baidu.com^
+||ada.baidu.com^
+||tuijian.baidu.com^
+||ucstat.baidu.com^
+||crab.baidu.com^
+||api1.tuisong.baidu.com^
+||baidu-mipdx.cn.miaozhen.com^
+||api3.tuisong.baidu.com^
+||api8.tuisong.baidu.com^
+||sa.tuisong.baidu.com^
+||api.tuisong.baidu.com^
+||sa8.tuisong.baidu.com^
+||cpro.baidustatic.com^
 #12306广告
-|| ad.12306.cn^
+||ad.12306.cn^
 #中国联通广告
-|| m1.ad.10010.com^
-|| smartad.10010.com^
+||m1.ad.10010.com^
+||smartad.10010.com^
 #电视广告
-|| adx-ad.smart-tv.cn^
-|| smart-tv.cn^
+||adx-ad.smart-tv.cn^
+||smart-tv.cn^
 #京东广告
-|| dsp-x.jd.com^
-|| xlog.jd.com^
-|| janapi.jd.com^
-|| im-x.jd.com^
-|| wn.x.jd.com^
-|| chat1.jd.com^
-|| kepler.jd.com^
-|| mapi.m.jd.com^
-|| orbit.jd.com^
-|| skdisplay.jd.com^
+||dsp-x.jd.com^
+||xlog.jd.com^
+||janapi.jd.com^
+||im-x.jd.com^
+||wn.x.jd.com^
+||chat1.jd.com^
+||kepler.jd.com^
+||mapi.m.jd.com^
+||orbit.jd.com^
+||skdisplay.jd.com^
 #小米视频
-|| de.pandora.xiaomi.com^
-|| mishop.pandora.xiaomi.com^
-|| upgrade.xiabop.pandora.xiaomi.com^
-|| data.mistat.xiaomi.com^
-|| gallery.pandora.xiaomi.com^
-|| b.netcheck.gallery.pandora.xiaomi.com^
-|| config.kuyun.com^
-|| o2o.api.xiaomi.com^
-|| dvb.pandora.xiaomi.com^
-|| bss.pandora.xiaomi.com^
-|| jellyfish.pandora.xiaomi.com^
-|| starfish.pandora.xiaomi.com^
-|| alog.umeng.com^
-|| api.ad.xiaomi.com^
-|| adkconfig.ad.xiaomi.com^
-|| gvod.aiseejapp.atianqi.com^
-|| ad.mi.com^
-|| ad.xiaomi.com^
-|| adl.xiaomi.com^
-|| adv.sec.miui.com^
-|| stat.pandora.xiaomi.com^
-|| new.api.ad.xiaomi.com^
-|| cdn.ad.xiaomi.com^
-|| e.ad.xiaomi.com^
-|| test.new.api.ad.xiaomi.com^
-|| api.ad.xiaomi.com^
-|| t7z.cupid.ptqy.gity.tv^
-|| ssp.ad.xiaomi.com^
-|| ad.doubleclick.net^
-|| v.admaster.com^
-|| api.io.mi.com^
-|| api.io.xiaomi.com^
-|| logonext.tv.kuyun.com^
-|| tvapi.kuyun.com^
-|| tv.aiseet.atianqi.com^
-|| vv.play.aiseet.atianqi.com^
-|| pandora.mi.com^
-|| assistant.pandora.xiaomi.com^
-|| tracking.miui.com^
-|| omgmta.play.aiseet.atianqi.com^
-|| misc.in.duokanbox.com^
-|| api.cupid.ptqy.gitv.tv^
-|| f1.market.xiaomi.com^
-|| f2.market.xiaomi.com^
-|| f3.market.xiaomi.com^
-|| f4.market.xiaomi.com^
-|| f5.market.xiaomi.com^
-|| f1.market.mi-img.com^
-|| f2.market.mi-img.com^
-|| f3.market.mi-img.com^
-|| f4.market.mi-img.com^
-|| f5.market.mi-img.com^
-|| t1.a.market.xiaomi.com^
-|| t2.a.market.xiaomi.com^
-|| t3.a.market.xiaomi.com^
-|| t4.a.market.xiaomi.com^
-|| t5.a.market.xiaomi.com^
-|| g.dtv.cn.miaozhan.com^
-|| staging.ai.api.xiaomi.com^
-|| 79t2.admaster.com^.cn
-|| secure.chn.imrworldwide.com^
-|| alert.kuyun.com^
-|| sdkconfig.ad.xiaomi.com^
-|| test.ad.xiaomi.com^
-|| upgrade.mishop.pandora.xiaomi.com^
-|| data.mistat.xiaomi.com^
-|| package.cdn.pandora.xiaomi.com^
-|| package.box.xiaomi.com^
-|| ota.cdn.pandora.xiaomi.com^
-|| stat.pandora.xiaomi.com^
-|| upgrade.mishop.pandora.xiaomi.com^
-|| logonext.tv.kuyun.com^
-|| config.kuyun.com^
-|| api.io.mi.com^
-|| mishop.pandora.xiaomi.com^
-|| dvb.pandora.xiaomi.com^
-|| api.ad.xiaomi.com^
-|| de.pandora.xiaomi.com^
-|| data.mistat.xiaomi.com^
-|| jellyfish.pandora.xiaomi.com^
-|| gallery.pandora.xiaomi.com^
-|| bss.pandora.xiaomi.com^
-|| gvod.aiseejapp.atianqi.com^
-|| api.ad.xiaomi.com^
-|| sdkconfig.ad.xiaomi.com^
-|| ad.mi.com^
-|| ad.xiaomi.com^
-|| ad1.xiaomi.com^
-|| adv.sec.miui.com^
-|| test.ad.xiaomi.com^
-|| new.api.ad.xiaomi.com^
-|| cdn.ad.xiaomi.com^
-|| e.ad.xiaomi.com^
-|| test.new.api.ad.xiaomi.com^
-|| ssp.ad.xiaomi.com^
-|| o2o.api.xiaomi.com^
-|| api.cupid.ptqy.gitv.tv^
-|| stat.pandora.xiaomi.com^
-|| upgrade.mishop.pandora.xiaomi.com^
-|| logonext.tv.kuyun.com^
-|| config.kuyun.com^
-|| api.io.mi.com^
-|| mishop.pandora.xiaomi.com^
-|| dvb.pandora.xiaomi.com^
-|| de.pandora.xiaomi.com^
-|| data.mistat.xiaomi.com^
-|| jellyfish.pandora.xiaomi.com^
-|| gallery.pandora.xiaomi.com^
-|| o2o.api.xiaomi.com^
-|| bss.pandora.xiaomi.com^
-|| gvod.aiseejapp.atianqi.com^
-|| package.cdn.pandora.xiaomi.com^
-|| package.box.xiaomi.com^
-|| ota.cdn.pandora.xiaomi.com^
-|| api.ad.xiaomi.com^
-|| data.mistat.xiaomi.com^
+||de.pandora.xiaomi.com^
+||mishop.pandora.xiaomi.com^
+||upgrade.xiabop.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||gallery.pandora.xiaomi.com^
+||b.netcheck.gallery.pandora.xiaomi.com^
+||config.kuyun.com^
+||o2o.api.xiaomi.com^
+||dvb.pandora.xiaomi.com^
+||bss.pandora.xiaomi.com^
+||jellyfish.pandora.xiaomi.com^
+||starfish.pandora.xiaomi.com^
+||alog.umeng.com^
+||api.ad.xiaomi.com^
+||adkconfig.ad.xiaomi.com^
+||gvod.aiseejapp.atianqi.com^
+||ad.mi.com^
+||ad.xiaomi.com^
+||adl.xiaomi.com^
+||adv.sec.miui.com^
+||stat.pandora.xiaomi.com^
+||new.api.ad.xiaomi.com^
+||cdn.ad.xiaomi.com^
+||e.ad.xiaomi.com^
+||test.new.api.ad.xiaomi.com^
+||api.ad.xiaomi.com^
+||t7z.cupid.ptqy.gity.tv^
+||ssp.ad.xiaomi.com^
+||ad.doubleclick.net^
+||v.admaster.com^
+||api.io.mi.com^
+||api.io.xiaomi.com^
+||logonext.tv.kuyun.com^
+||tvapi.kuyun.com^
+||tv.aiseet.atianqi.com^
+||vv.play.aiseet.atianqi.com^
+||pandora.mi.com^
+||assistant.pandora.xiaomi.com^
+||tracking.miui.com^
+||omgmta.play.aiseet.atianqi.com^
+||misc.in.duokanbox.com^
+||api.cupid.ptqy.gitv.tv^
+||f1.market.xiaomi.com^
+||f2.market.xiaomi.com^
+||f3.market.xiaomi.com^
+||f4.market.xiaomi.com^
+||f5.market.xiaomi.com^
+||f1.market.mi-img.com^
+||f2.market.mi-img.com^
+||f3.market.mi-img.com^
+||f4.market.mi-img.com^
+||f5.market.mi-img.com^
+||t1.a.market.xiaomi.com^
+||t2.a.market.xiaomi.com^
+||t3.a.market.xiaomi.com^
+||t4.a.market.xiaomi.com^
+||t5.a.market.xiaomi.com^
+||g.dtv.cn.miaozhan.com^
+||staging.ai.api.xiaomi.com^
+||79t2.admaster.com^.cn
+||secure.chn.imrworldwide.com^
+||alert.kuyun.com^
+||sdkconfig.ad.xiaomi.com^
+||test.ad.xiaomi.com^
+||upgrade.mishop.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||package.cdn.pandora.xiaomi.com^
+||package.box.xiaomi.com^
+||ota.cdn.pandora.xiaomi.com^
+||stat.pandora.xiaomi.com^
+||upgrade.mishop.pandora.xiaomi.com^
+||logonext.tv.kuyun.com^
+||config.kuyun.com^
+||api.io.mi.com^
+||mishop.pandora.xiaomi.com^
+||dvb.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||de.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||jellyfish.pandora.xiaomi.com^
+||gallery.pandora.xiaomi.com^
+||bss.pandora.xiaomi.com^
+||gvod.aiseejapp.atianqi.com^
+||api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||ad.mi.com^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||adv.sec.miui.com^
+||test.ad.xiaomi.com^
+||new.api.ad.xiaomi.com^
+||cdn.ad.xiaomi.com^
+||e.ad.xiaomi.com^
+||test.new.api.ad.xiaomi.com^
+||ssp.ad.xiaomi.com^
+||o2o.api.xiaomi.com^
+||api.cupid.ptqy.gitv.tv^
+||stat.pandora.xiaomi.com^
+||upgrade.mishop.pandora.xiaomi.com^
+||logonext.tv.kuyun.com^
+||config.kuyun.com^
+||api.io.mi.com^
+||mishop.pandora.xiaomi.com^
+||dvb.pandora.xiaomi.com^
+||de.pandora.xiaomi.com^
+||data.mistat.xiaomi.com^
+||jellyfish.pandora.xiaomi.com^
+||gallery.pandora.xiaomi.com^
+||o2o.api.xiaomi.com^
+||bss.pandora.xiaomi.com^
+||gvod.aiseejapp.atianqi.com^
+||package.cdn.pandora.xiaomi.com^
+||package.box.xiaomi.com^
+||ota.cdn.pandora.xiaomi.com^
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
 #快手广告
-|| open.e.kuaishou.com^
-|| api.e.kuaishou.com^
-|| open.e.kuaishou.cn^
-|| p1-lm.adukwai.com^
-|| p2-lm.adukwai.com^
-|| p1-lm.adkwai.com^
-|| p2-lm.adkwai.com^
-|| p3-lm.adkwai.com^
-|| w1.askwai.com^
-|| w1.bskwai.com^
-|| w1.cskwai.com^
-|| w1.dskwai.com^
-|| w1.eskwai.com^
-|| w1.fskwai.com^
-|| w1.gskwai.com^
-|| w1.hskwai.com^
-|| w1.iskwai.com^
-|| w1.jskwai.com^
-|| w1.kskwai.com^
-|| w1.lskwai.com^
-|| w1.mskwai.com^
-|| w1.nskwai.com^
-|| w1.oskwai.com^
-|| w1.pskwai.com^
-|| w1.qskwai.com^
-|| w1.rskwai.com^
-|| w1.sskwai.com^
-|| w1.tskwai.com^
-|| w1.uskwai.com^
-|| w1.vskwai.com^
-|| w1.wskwai.com^
-|| w1.xskwai.com^
-|| w1.yskwai.com^
-|| w1.zskwai.com^
-|| adkwai.com^
-|| adukwai.com^
+||open.e.kuaishou.com^
+||api.e.kuaishou.com^
+||open.e.kuaishou.cn^
+||p1-lm.adukwai.com^
+||p2-lm.adukwai.com^
+||p1-lm.adkwai.com^
+||p2-lm.adkwai.com^
+||p3-lm.adkwai.com^
+||w1.askwai.com^
+||w1.bskwai.com^
+||w1.cskwai.com^
+||w1.dskwai.com^
+||w1.eskwai.com^
+||w1.fskwai.com^
+||w1.gskwai.com^
+||w1.hskwai.com^
+||w1.iskwai.com^
+||w1.jskwai.com^
+||w1.kskwai.com^
+||w1.lskwai.com^
+||w1.mskwai.com^
+||w1.nskwai.com^
+||w1.oskwai.com^
+||w1.pskwai.com^
+||w1.qskwai.com^
+||w1.rskwai.com^
+||w1.sskwai.com^
+||w1.tskwai.com^
+||w1.uskwai.com^
+||w1.vskwai.com^
+||w1.wskwai.com^
+||w1.xskwai.com^
+||w1.yskwai.com^
+||w1.zskwai.com^
+||adkwai.com^
+||adukwai.com^
+#谷歌广告
+
 #不知名小广告
-|| api.adprod.cn^
-|| adx-track.domob.cn^
+||api.adprod.cn^
+||adx-track.domob.cn^
 #哔哩哔哩模块
-|| black.qimo.ink^
+||black.qimo.ink^
 127.0.0.1 black.qimo.ink
