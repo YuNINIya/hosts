@@ -265,6 +265,7 @@
 ||vivobarefootsklep.pl^
 ||vivobarefotpl.com^
 ##百度系广告
+||bes-mtj.baidu.com^
 ||feed-image.baidu.com^
 ||mobads.baidu.com^
 ||adm.baidu.com^
@@ -341,6 +342,7 @@
 ||adx-ad.smart-tv.cn^
 ||smart-tv.cn^
 #京东广告
+||img1.360buyimg.com^
 ||dsp-x.jd.com^
 ||xlog.jd.com^
 ||janapi.jd.com^
@@ -510,6 +512,7 @@
 #不知名小广告
 ||api.adprod.cn^
 ||adx-track.domob.cn^
+||v.adx.hubcloud.com.cn^
 #哔哩哔哩模块
 ||black.qimo.ink^
 127.0.0.1 black.qimo.ink
