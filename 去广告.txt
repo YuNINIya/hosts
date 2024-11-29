@@ -510,10 +510,15 @@
 ||adukwai.com^
 #谷歌广告
 
+#OPPO广告
+||uapi.ads.heytapmobi.com^$important
+||adx.ads.heytapmobi.com^$important
 #不知名小广告
 ||api.adprod.cn^
 ||adx-track.domob.cn^
 ||v.adx.hubcloud.com.cn^
+||monitor.ads^
+||resource.ad-scope.com.cn^$important
 #哔哩哔哩模块
 ||black.qimo.ink^
 127.0.0.1 black.qimo.ink
