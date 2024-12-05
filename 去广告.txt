@@ -511,14 +511,23 @@
 #谷歌广告
 
 #OPPO广告
-||uapi.ads.heytapmobi.com^$important
-||adx.ads.heytapmobi.com^$important
+||uapi.ads.heytapmobi.com^
+||adx.ads.heytapmobi.com^
+#beizi广告
+||sdk.beizi.biz^
+#滴滴广告
+||gungnir.xiaojukeji.com^
 #不知名小广告
 ||api.adprod.cn^
 ||adx-track.domob.cn^
 ||v.adx.hubcloud.com.cn^
 ||monitor.ads^
-||resource.ad-scope.com.cn^$important
+||resource.ad-scope.com.cn^
+||adx-bj-req.anythinktech.com^
+||adx-bj.anythinktech.com^
+||api.htp.hubcloud.com.cn^
+||huichuan.sm.cn^
+||adsdkapi.dxys.pro^
 #哔哩哔哩模块
 ||black.qimo.ink^
 127.0.0.1 black.qimo.ink
