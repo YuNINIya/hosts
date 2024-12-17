@@ -119,6 +119,7 @@
 ##酷安去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 ##友盟淘宝广告
+||adsmind.ugdtimg.com^
 ||ulogs.umengcloud.com^
 ||utoken.umeng.com^
 ||aspect-upush.umeng.com^
