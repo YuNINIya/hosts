@@ -355,6 +355,9 @@
 ||mapi.m.jd.com^
 ||orbit.jd.com^
 ||skdisplay.jd.com^
+||event.tradplusad.com^
+||bidder.tradplusad.com^
+||kjimg10.360buyimg.com^
 #小米视频
 ||de.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
