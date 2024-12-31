@@ -340,9 +340,6 @@
 #中国联通广告
 ||m1.ad.10010.com^
 ||smartad.10010.com^
-#电视广告
-||adx-ad.smart-tv.cn^
-||smart-tv.cn^
 #京东广告
 ||img1.360buyimg.com^
 ||dsp-x.jd.com^
