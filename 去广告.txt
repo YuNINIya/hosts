@@ -529,6 +529,5 @@
 ||huichuan.sm.cn^
 ||adsdkapi.dxys.pro^
 #哔哩哔哩
-127.0.0.1 black.qimo.ink
 ||miniapp.bilibili.com^
 ||bilibilitool.site^
