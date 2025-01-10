@@ -354,7 +354,6 @@
 ||skdisplay.jd.com^
 ||event.tradplusad.com^
 ||bidder.tradplusad.com^
-||kjimg10.360buyimg.com^
 #小米视频
 ||de.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
@@ -530,7 +529,6 @@
 ||huichuan.sm.cn^
 ||adsdkapi.dxys.pro^
 #哔哩哔哩
-||black.qimo.ink^
 127.0.0.1 black.qimo.ink
 ||miniapp.bilibili.com^
 ||bilibilitool.site^
