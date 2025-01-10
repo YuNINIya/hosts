@@ -167,6 +167,7 @@
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ##腾讯系广告
+||win.gdt.qq.com^
 ||ad.qun.qq.com^
 ||adping.qq.com^
 ||adpm.app.qq.com^
