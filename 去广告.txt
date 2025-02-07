@@ -149,6 +149,7 @@
 ||adashx4yt.m.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||audid.umeng.com^
+||pgdt.ugdtimg.com^
 ##阿里系广告
 ||files.adprod.cn^
 ||adash.man.aliyuncs.com^
@@ -167,6 +168,7 @@
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ##腾讯系广告
+||ipv4.gdt.qq.com^
 ||win.gdt.qq.com^
 ||ad.qun.qq.com^
 ||adping.qq.com^
@@ -191,6 +193,7 @@
 ||e.qq.com^
 ||adsmind.gdtimg.com^
 ##vivo广告
+||stdj.appstore.vivo.com.cn^
 ||adsdk.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||*tsdk.vivo.com.cn^
