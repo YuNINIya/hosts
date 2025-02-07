@@ -29,6 +29,7 @@
 0.0.0.0 tongii.meizu.com
 0.0.0.0 aider-res.meizu.com
 ##字节系广告
+||mssdk.volces.com^
 ||abtest-ch.snssdk.com^
 ||pangolin-sdk-toutiao.com^
 ||log.zijieapi.com^
