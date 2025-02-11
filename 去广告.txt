@@ -171,6 +171,9 @@
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ##腾讯系广告
+||v3.gdt.qq.com^
+||v2mi.gdt.qq.com^
+||c3.gdt.qq.com^
 ||adstats.tencentmusic.com^
 ||ipv4.gdt.qq.com^
 ||win.gdt.qq.com^
